@@ -1,0 +1,70 @@
+/*更多二手房样式*/
+/*初始样式*/
+a, a:hover {
+    text-decoration: none;
+}
+
+.header {
+    height: 57px;
+    background-color: #00ae66;
+}
+
+.header a {
+    display: inline-block;
+    height: 57px;
+    line-height: 57px;
+    color: white;
+    font-size: 14px;
+    margin-left: 30px;
+}
+
+.header > .row > .options {
+    height: 57px;
+    text-align: center;
+}
+
+.header > .row ul > li {
+    height: 20px;
+    line-height: 20px;
+    margin-top: 0;
+}
+
+.header > .row .col-xs-6 ul {
+    margin-left: 15px;
+    margin-top: 10px;
+    color: white;
+}
+
+#searchs {
+    height: 57px;
+    background-color: #f4f4f4;
+    text-align: center;
+
+}
+
+#searchs > .input-group {
+    padding: 10px;
+
+}
+/*更多房子*/
+
+.house > .hot-list > .media {
+    padding: 14px 11px;
+    border-bottom: 1px solid #c5c5c5;
+    font-size: 20px;
+}
+
+.house > .hot-list .media-heading {
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+
+.house > .hot-list .media-body > p {
+    margin: 0;
+    font-size: 18px;
+}
+
+.house > .hot-list .media-body .label {
+    display: inline-block;
+    margin-top: 4px;
+}
